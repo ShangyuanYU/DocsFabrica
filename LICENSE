@@ -1,0 +1,85 @@
+DocsFabrica 软件许可协议（Beta 版本）
+
+版权所有 © 2026 Shangyuan Yu。保留所有权利。
+
+DocsFabrica 软件及其相关文档、界面、图标、图片、代码（未公开部分）以及其他相关内容均受著作权法及相关法律法规保护。
+
+一、许可范围
+
+在遵守本协议的前提下，用户可以免费下载、安装和使用 DocsFabrica 软件，用于：
+
+- 个人学习与研究；
+- 科研、教育及学术活动；
+- 企业或机构内部的非商业办公使用；
+- 软件测试与功能体验。
+
+二、禁止行为
+
+未经著作权人书面许可，用户不得进行以下行为：
+
+1. 修改、改编或制作软件的衍生版本；
+2. 对软件进行反向工程、反编译、反汇编或其他试图获取源代码的行为（法律允许的除外）；
+3. 删除、修改或隐藏软件中的版权声明、作者信息或其他知识产权标识；
+4. 冒充作者或以其他方式误导他人认为该软件由其他个人或组织开发；
+5. 将本软件用于商业销售、出租、授权、再许可或其他商业用途；
+6. 利用本软件从事任何违反法律法规或侵犯他人合法权益的活动。
+
+三、AI 模型服务说明
+
+DocsFabrica 仅提供与第三方人工智能模型服务的调用能力。
+
+用户在使用 DeepSeek 或其他模型服务时，应遵守对应服务商的使用协议及相关规定。
+
+模型服务产生的 Token 消耗、调用费用及计费方式由对应模型服务商决定。如用户使用个人 API Key，相关费用由用户自行承担。
+
+四、免责声明
+
+本软件按"现状（As Is）"提供。
+
+开发者不保证软件不存在错误、中断或兼容性问题，也不保证 AI 生成内容的准确性、完整性或适用于任何特定用途。
+
+用户应自行审核 AI 生成或修改后的文档内容，并在处理重要文档前做好备份。
+
+因使用本软件或第三方 AI 服务而产生的直接或间接损失，在法律允许的范围内，开发者不承担相应责任。
+
+五、知识产权
+
+DocsFabrica 的软件版权、商标（如适用）、界面设计、文档及其他相关知识产权均归著作权人所有。
+
+本协议未授予用户任何除软件使用权之外的知识产权。
+
+六、协议更新
+
+开发者有权根据软件发展情况对本协议进行更新。
+
+更新后的协议将随软件版本或官方发布渠道一并提供。
+
+继续使用软件即表示用户接受更新后的协议。
+
+七、联系方式
+
+如对本协议或软件使用存在疑问，欢迎通过 GitHub Issues 提交反馈或联系开发者。
+
+感谢您使用 DocsFabrica。
+
+---
+
+DocsFabrica License
+
+Copyright © 2026 Shangyuan Yu. All rights reserved.
+
+DocsFabrica and all associated software, documentation, images, and related materials are protected by applicable copyright laws.
+
+Permission is granted to download, install, and use the software for evaluation, personal, educational, research, or internal organizational purposes.
+
+Unless otherwise permitted in writing by the copyright holder, you may not:
+
+- modify, adapt, or create derivative works of the software;
+- reverse engineer, decompile, or disassemble the software except where permitted by applicable law;
+- remove or alter copyright or attribution notices;
+- distribute the software in a manner that misrepresents its origin or authorship;
+- sell, sublicense, lease, or otherwise commercially exploit the software.
+
+The software is provided "as is" without any express or implied warranty. The copyright holder shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of this software.
+
+Use of third-party AI services is subject to the terms and pricing policies of the corresponding service providers. Any fees incurred when using personal API keys are the responsibility of the user.
