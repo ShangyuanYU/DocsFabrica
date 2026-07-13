@@ -6,13 +6,9 @@
 
 DocsFabrica 是一款运行在 Microsoft Word 中的 AI 文档助手，用于文档问答、修订、批注、选区处理和标准排版。
 
-当前公开仓库仅用于发布用户文档、测试说明、许可协议、隐私说明、免责声明和用户反馈入口，不包含软件核心代码，也不包含安装包文件。
-
 ## 快速下载
 
-Windows 安装包：
-
-[下载 DocsFabrica-Windows-Setup-v0.5.29.exe](https://github.com/ShangyuanYU/DocsFabrica-Core/releases/download/v0.5.29/DocsFabrica-Windows-Setup-v0.5.29.exe)
+Windows 安装包：即将发布
 
 macOS 版本暂未开放，后续版本将提供支持。
 
