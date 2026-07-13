@@ -39,9 +39,11 @@ macOS 版本暂未开放，后续版本将提供支持。
 
 ## 问题反馈
 
-如果遇到问题，或希望提出功能建议，请通过 GitHub Issues 留言：
+非常欢迎用户反馈意见。如果遇到问题，或希望提出功能建议，可以通过 GitHub Issues 留言，也可以发送邮件反馈：
 
 [提交问题或建议](https://github.com/ShangyuanYU/DocsFabrica/issues)
+
+反馈邮箱：<yushangyuan1997@gmail.com>
 
 反馈问题时，建议提供 DocsFabrica 版本号、Windows 和 Microsoft Word 版本、问题出现前的操作步骤，以及错误提示或截图。
 
