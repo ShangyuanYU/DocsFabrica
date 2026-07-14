@@ -6,12 +6,7 @@
 
 DocsFabrica 是一款运行在 Microsoft Word 中的 AI 文档助手，用于文档问答、修订、批注、选区处理和标准排版。
 
-<p style="color: purple;">
-DocsFabrica 目前由作者持续开发。<br>
-所有 Issue 我都会认真阅读♥️。<br>
-优秀建议将在后续版本中实现♥️，<br>
-并在更新日志中注明。
-</p>
+![DocsFabrica 反馈说明](docs/assets/readme-feedback-note.svg)
 
 ## 快速下载
 

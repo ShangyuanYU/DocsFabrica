@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="138" viewBox="0 0 820 138" role="img" aria-labelledby="title desc">
+  <title id="title">DocsFabrica feedback note</title>
+  <desc id="desc">DocsFabrica is under active development. Issues are read carefully and good suggestions may be implemented in later versions.</desc>
+  <rect x="1" y="1" width="818" height="136" rx="12" fill="#fbf7ff" stroke="#d8b4fe" stroke-width="2"/>
+  <text x="28" y="38" fill="#6d28d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="18" font-weight="700">
+    DocsFabrica 目前由作者持续开发。
+  </text>
+  <text x="28" y="72" fill="#7c3aed" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="17">
+    所有 Issue 我都会认真阅读&#x2665;&#xfe0f;。
+  </text>
+  <text x="28" y="106" fill="#7c3aed" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="17">
+    优秀建议将在后续版本中实现&#x2665;&#xfe0f;，并在更新日志中注明。
+  </text>
+</svg>
